@@ -31,13 +31,14 @@ A simple and responsive web-based Education Learning Platform built using the **
 -   cd server
 -   npm install
 - 4. Navigate to the frontend directory and install client dependencies:
-     cd frontend
-     npm install
+   cd frontend
+   npm install
   5. Run Frontend
-     cd frontend
-     npm start
+    cd frontend
+    npm start
+
   6. Run Backend
      cd backend
      npm run dev
-
+ 
  
