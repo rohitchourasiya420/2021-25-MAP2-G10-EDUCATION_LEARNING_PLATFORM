@@ -33,22 +33,29 @@ Follow the steps below to set up the project on your local machine:
 git clone https://github.com/rohitchourasiya420/2021-25-MAP2-G10-EDUCATION_LEARNING_PLATFORM.git
 ```
 ### 2. Navigate to the Project Directory
-cd 2021-25-MAP2-G10-EDUCATION_LEARNING_PLATFORM
+```bash cd 2021-25-MAP2-G10-EDUCATION_LEARNING_PLATFORM ```
 
 ### 3. Install Server Dependencies
+```bash
 cd backend
 npm install
+```
 
 ### 4. Install Client Dependencies
+```bash
 cd ../frontend
 npm install
+```
 
 ### 5. Run the Frontend
+```bash
 npm start
-
+```
 ### 6. Run the Backend
+```bash
 cd ../backend
 npm run dev
+```
 
 
 ## 📌 Notes
